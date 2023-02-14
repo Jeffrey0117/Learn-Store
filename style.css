@@ -14,7 +14,7 @@ body{
 
 .main{
   width: 100%;
-  height: 100vh;
+  height: 110vh;
   /* background: url("https://images.unsplash.com/photo-1547082299-de196ea013d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80") no-repeat;
   background-size: 100%; */
   background: rgb(2, 0, 36);
@@ -610,6 +610,7 @@ nav ul li a{
   color: white;
   letter-spacing: 1px;
   line-height: 35px;
+  
 }
 
 .text h1{
@@ -631,7 +632,7 @@ nav ul li a{
 .text2{
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  height: 85vh;
+  height: 90vh;
 }
 
 .h1-border{
@@ -695,7 +696,7 @@ nav ul li a{
 .text3{
   /* background-color: rgb(110, 109, 109); */
   color: rgb(0, 0, 0);
-  height: 190vh;
+  height: 195vh;
   width: 100%;
   margin: 0 auto;
   background-color: #F5F5F5;
@@ -788,7 +789,7 @@ nav ul li a{
 /* 影片區塊樣式開始 */
 .text4{
   background: url("https://web-design.vip/img/bg-register4.jpg") no-repeat;
-  height: 105vh;
+  height: 125vh;
   font-size: 20px;
   width: 100%;
   background-size: 100%;
@@ -883,15 +884,16 @@ nav ul li a{
 }
 /* 人家的按鈕樣式結束 */
 
-
+/* 好評推薦樣式開始 */
 .text5{
   color: rgb(0, 0, 0);
-  height: 130vh;
+  height: 140vh;
   width: 100%;
   margin: 0 auto;
   /* background-color: #F5F5F5; */
   background-color: #ecebec;
   background-size: 100%;
+  margin-top: -80px;
 }
 
 .text5 h1{
@@ -978,7 +980,7 @@ nav ul li a{
 
 /* 會員卡片樣式結束 */
 
-/* 好評推薦樣式開始 */
+/* 好評推薦樣式結束 */
 /* 立即付款樣式開始 */
 
 .text6{
@@ -987,7 +989,6 @@ nav ul li a{
   width: 100%;
   margin: 0 auto;
   background-color: #F5F5F5;
- 
 }
 
 .text6 .h1-border h1{
